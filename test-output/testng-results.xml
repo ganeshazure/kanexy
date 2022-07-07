@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-07T12:46:42Z" name="TestSuite" finished-at="2022-07-07T12:47:02Z" duration-ms="19997">
+    <groups>
+    </groups>
+    <test started-at="2022-07-07T12:46:42Z" name="testGuru" finished-at="2022-07-07T12:47:02Z" duration-ms="19997">
+      <class name="kanexy">
+        <test-method signature="f()[pri:0, instance:kanexy@60704c]" started-at="2022-07-07T12:46:42Z" name="f" finished-at="2022-07-07T12:47:02Z" duration-ms="19872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- kanexy -->
+    </test> <!-- testGuru -->
+  </suite> <!-- TestSuite -->
+</testng-results>
